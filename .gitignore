@@ -1,0 +1,19 @@
+# SwiftCourier Backend
+
+*.pyc
+__pycache__/
+*.pyo
+.env
+*.db
+*.sqlite3
+.venv/
+venv/
+v/
+env/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+alembic/versions/*.py
+!alembic/versions/.gitkeep
